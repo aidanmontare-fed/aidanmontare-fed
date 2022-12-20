@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aidanmontare-fed
 - 👀 I’m interested in science and measurement
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning GNSS navigation systems
+- 💞️ I’m looking to collaborate on time and frequency services and experiments
 - 📫 How to reach me https://www.nist.gov/people/aidan-montare
 
 <!---
